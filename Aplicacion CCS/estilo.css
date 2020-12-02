@@ -1,0 +1,28 @@
+.contenedorPrincipal{
+  position: absolute;
+  height: 600px;
+  width: 800px;
+  background: rgb(156, 79, 192) ;
+  text-align: center;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  border-radius: 30px;
+
+}      
+.cardbody{
+  background-color: rgb(255, 255, 255);
+  height: 90%;
+  padding: 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+body{
+   background-image: url("https://fondosmil.com/fondo/28064.jpg")  
+
+}
+.estilostexto{
+   margin-top: 10%;
+
+
+}
